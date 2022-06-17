@@ -7,7 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controllerpage {
 	@RequestMapping("/getname")
 	public String getname() {
-		return "HOMEEEEEEEEEEEEEEEEEEEEEEE";
+		return "HOMEEEEEEEEEEEaaaEEEEEEEEEEEE";
+		
 		
 	}
 
